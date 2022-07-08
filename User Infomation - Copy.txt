@@ -1,0 +1,47 @@
+***** 1 *****
+Country: Sweden
+Name: Phillip Thorup
+Birthday: March 9, 1991
+Age: 31
+Address: 
+Phone:
+    Country Phone Code:	+45
+    Phone Number:	731295062
+    Mobile Number:	21-75-52-84
+Email Address: phillipthorup49@outlook.com
+Username: Glimmer1991
+Password: 66uRjFr7Cr
+University: Department of Computer Science at Aarhus University.
+
+***** 2 *****
+Country: Norway
+Name: Jozef Gilje
+Birthday: June 9, 1992
+Age: 30
+Address: Sogndal, Vestland, Norway
+Phone: 
+    Country Phone Code:	+47
+    Phone Number:	59444692
+    Mobile Number:	91 18 70 33
+    ONLINE
+Email Address:	jozefgilje@wunn.edu.plDo you want to activate this email?
+Username:	Orangutan8215
+Password:	GNLqV3fNaV
+
+***** 3 *****
+Country: Malaysia
+Name: Jaja Pribadi
+Birthday: September 9, 1992
+Age: 30 years old
+Address: Su-ngai Padi, Narathiwat Province, Thailand
+Phone:
+    Country Phone Code:	+60
+    Phone Number: 5 0811 7061
+    Mobile Number: 19 589 2932
+Email Address: budimanafifah@toyamail.comDo you want to activate this email?
+Username: Squire2139
+Password: r82fVm3nTm
+
+***** Similar with me *****
+https://www.linkedin.com/in/yundiw/
+https://www.linkedin.com/in/runzhou-chen-profile/
